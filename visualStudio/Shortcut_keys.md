@@ -9,3 +9,7 @@ ctrl + b
 >터미널 토글
 
 ctrl + j
+
+>줄 맞춤
+
+ctrl + k + f
